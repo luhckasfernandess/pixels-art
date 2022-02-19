@@ -10,7 +10,7 @@
     display: inline-block;
 }
 
-.color.one.selected {
+.color.one {
     background-color: black;
     height: 50px;
     width: 50px;
@@ -51,7 +51,6 @@ Source: https://developer.mozilla.org/pt-BR/docs/Web/CSS/display
 .line {
     display: table-row; /* faz as li ficarem na mesma linha uma colada na outra */
     /* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr */
-    height: auto;
   }
 
 .pixel {
