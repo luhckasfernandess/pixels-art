@@ -1,0 +1,28 @@
+.color {
+    border: solid black 1px;
+    display: inline-block;
+}
+
+.color.one {
+    background-color: black;
+    height: 50px;
+    width: 50px;
+}
+
+.color.two {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+}
+
+.color.three {
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+}
+
+.color.four {
+    background-color: green;
+    height: 50px;
+    width: 50px;
+}
