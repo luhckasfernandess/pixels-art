@@ -10,7 +10,7 @@
     display: inline-block;
 }
 
-.color.one {
+.color.black {
     background-color: black;
     height: 50px;
     width: 50px;
@@ -21,19 +21,19 @@
      */
 }
 
-.color.two {
+.color.red {
     background-color: red;
     height: 50px;
     width: 50px;
 }
 
-.color.three {
+.color.blue {
     background-color: blue;
     height: 50px;
     width: 50px;
 }
 
-.color.four {
+.color.green {
     background-color: green;
     height: 50px;
     width: 50px;
